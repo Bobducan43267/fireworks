@@ -1,2 +1,3 @@
-# fireworks
-firework website
+# Kayak Game with Fireworks
+
+firework kayak website
